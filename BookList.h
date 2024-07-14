@@ -1,15 +1,7 @@
 //by: Pepper Berry
 //date: 1/8/2024
 
-//Load external data-driver program should be able to be done before class called will call many classes
-//Add new member-Member list
-//Add new book- book list
-//Login-Member list
-//Logout-Member list
-//View all your own ratings
-//Rate book
-//See recommended books
-//Quit-driver program should be able to be done outside of a class
+
 
 
 
